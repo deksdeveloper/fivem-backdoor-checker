@@ -21,3 +21,8 @@ Python 3.6 veya üzeri sürüm yüklü olmalıdır.
 git clone https://github.com/deksdeveloper/fivem-backdoor-checker.git
 cd fivem-backdoor-checker
 python backdoor-checker.py
+```
+---
+
+## Bilgilendirme
+Bu projenin geliştirilmesinde Claude, ChatGPT gibi teknolojiler kullanılmıştır. 
