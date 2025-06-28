@@ -1,7 +1,9 @@
 # FiveM Backdoor Checker
 
 Bu Python tabanlı araç, FiveM sunucularındaki `.lua` dosyalarını tarayarak potansiyel backdoor (arka kapı) içeriklerini tespit eder. Tespit edilen şüpheli kodlar detaylı bir HTML raporu olarak sunulur.
-
+---
+![Fotoğraf](https://i.ibb.co/v4RqbsJQ/image.png) 
+---
 ## Özellikler
 
 - Hızlı klasör tarama
